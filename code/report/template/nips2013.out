@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Dataset and pre-processing data}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{pre training word-vectors}{section.2}% 3
+\BOOKMARK [1][-]{section.3}{Approach}{}% 4
+\BOOKMARK [2][-]{subsection.3.1}{Model-LSTM recurrent neural networks:}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.2}{The LSTM update equations:}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Experiment:}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{Values of the hyper parameters used and tuned}{section.4}% 8
+\BOOKMARK [1][-]{section.5}{Results:}{}% 9
+\BOOKMARK [1][-]{section.6}{Conclusions}{}% 10
